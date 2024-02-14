@@ -22,7 +22,7 @@ public class Array {
 		num.set(8, 80);
 		// to get the particular value in the array use (variablename.get(index)) in sysout
 		//System.out.println(num.get(2));
-		num.get(2);
+		num.get(5);
 		//removes the particular value
 		num.remove(6);
 		// to get the length of the array use size()
